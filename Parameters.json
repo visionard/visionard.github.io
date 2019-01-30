@@ -3,6 +3,6 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": { "value": "azureuser" },
-        "sshKeyData": { "value": "Azure12345678" }
+        "sshKeyData": { "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdUgpAKkY9SMOkIds7AIIJ9E7AQZp4LkZwJrUz6Fmevqi3hcA15MAHCxH6DCO7zv3i6MlqF+Dg05eQ7YejreA66Jfq5S6cxW/g1iUwzsYt5oUXQhcBjJqpIlEb5SQamn1aas2bfcB5Lg5G3C10TNHLe4Ju1GT4IA5WC6Ag0p3iq905RW6BKFn51Z++R0a61/ZTHQmktJcD60xD9OVTOl4WFJBGGqnG5b5nhS5AsBRfchoD5VX+ncbvOa5IrfN4VDRY2NLxfeE36Jxo0Eq0pGLuiowzRK705ZhmJp6FcyPq6wNXkkqQ2FBo0CuUhjXItP7m74Yoz0X7O6wDFDlxJHF/ HP@DESKTOP-6LDP25T" }
     }
 }
