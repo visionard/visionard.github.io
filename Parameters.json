@@ -3,6 +3,6 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUserName": { "value": "azureuser" },
-        "adminPassword": { "value": "Azure12345678" }
+        "sshKeyData": { "value": "Azure12345678" }
     }
 }
